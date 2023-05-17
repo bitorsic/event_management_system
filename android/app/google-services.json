@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911262153654",
+    "project_id": "ems-app-20222",
+    "storage_bucket": "ems-app-20222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911262153654:android:4bfa429a9c05273a959f17",
+        "android_client_info": {
+          "package_name": "com.example.ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911262153654-sjhhaah413ddlclds030gv1022sr8973.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ems",
+            "certificate_hash": "1a01ab9b22905d3fd3c04eabbd8b9aa42cf431e6"
+          }
+        },
+        {
+          "client_id": "911262153654-3t5gndkafnl9b07f5ruvf4ifl5aq2ha1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSdWdXHKjgiq-VvH6vM2Gtc4Nz3YXh9T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911262153654-3t5gndkafnl9b07f5ruvf4ifl5aq2ha1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
